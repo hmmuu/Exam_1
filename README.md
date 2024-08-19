@@ -1,3 +1,2 @@
 # Thidarat Boonmee 
-# No.29
-46168
+No.29 Student ID: 46168
